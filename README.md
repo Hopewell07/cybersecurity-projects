@@ -38,3 +38,11 @@ nkugza-dasmall@Nkululeko-LM28:~/cyber_projects$ python3 log_analysis.py
 IP: 127.0.0.1 | Attempts: 6
 nkugza-dasmall@Nkululeko-LM28:~/cyber_projects$
 
+💡 Skills Demonstrated
+Linux environment usage
+
+Python scripting
+
+Log analysis
+
+Basic cybersecurity detection logic
