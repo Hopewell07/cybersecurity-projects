@@ -1,4 +1,4 @@
-🛡️ Cybersecurity Projects
+🛡️
 Welcome to my Cybersecurity Projects repository! This repo showcases my learning journey and hands-on experience with practical cybersecurity skills,
 covering areas such as log analysis, permission audits, SQL filtering, and more.
 
