@@ -13,8 +13,8 @@ SQL-based log filtering
 
 Each project folder contains its own README with details, scripts, and any required data or outputs.
 
-🚧 Projects
-Project	Description
+🚧 Projects : Project	Descriptions
+
 project1-log-analysis	A Python script that analyzes login attempt logs to identify suspicious activity.
 
 project2-permission-audit	Audits user file permissions to detect overly permissive access and potential misconfigurations.
@@ -22,6 +22,7 @@ project2-permission-audit	Audits user file permissions to detect overly permissi
 project3-sql-log-filtering	Uses SQLite to filter and analyze structured log data based on multiple conditions.
 
 🛠️ Technologies & Tools
+
 Python 3
 SQLite3
 Bash / Linux CLI tools
